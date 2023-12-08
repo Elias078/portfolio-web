@@ -252,7 +252,7 @@ header {
   content: "80%";
 }
 .progress-line .bootstrap::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line .javascript::after {
   content: "50%";
