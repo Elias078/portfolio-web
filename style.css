@@ -246,7 +246,7 @@ header {
 }
 
 .progress-line .html::after {
-  content: "80%";
+  content: "90%";
 }
 .progress-line .css::after {
   content: "70%";
